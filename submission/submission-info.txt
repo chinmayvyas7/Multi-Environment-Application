@@ -1,0 +1,14 @@
+Student Name: Chinmay Vyas
+Repository URL: https://github.com/chinmayvyas7/Multi-Environment-Application
+Deployment Status: Working - local Docker Compose deployment verified
+
+Access URLs:
+- Development: http://localhost:3000/dev
+- Production: http://localhost:3000/prod
+- Frontend: http://localhost:3000
+- Development API: http://localhost:3001/api/tickets
+- Production API: http://localhost:3002/api/tickets
+
+Date of Submission: 18-10-2026
+Environment: Windows with Docker Desktop
+Services: React frontend, Flask development backend, Flask production backend, MongoDB development, MongoDB production
